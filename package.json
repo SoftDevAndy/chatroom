@@ -1,0 +1,29 @@
+{
+  "name": "quick-chat",
+  "version": "1.0.0",
+  "description": "Socket.io implementation for a no frills chat room. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatroom",
+    "chat",
+    "chatbox",
+    "message",
+    "server",
+    "system",
+    "node",
+    "learning",
+    "implementation",
+    "socket",
+    "socket.io",
+    "npm"
+  ],
+  "author": "SoftDevAndy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
