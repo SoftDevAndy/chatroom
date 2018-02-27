@@ -1,4 +1,4 @@
-# quick-chat
+# chatroom
 Playing around with [https://socket.io/](https://socket.io/), no proper validation or token handling, but a quick learner project!
 
 Choose a unique username and chat. This is a one off, so restart the server to reset everything.
